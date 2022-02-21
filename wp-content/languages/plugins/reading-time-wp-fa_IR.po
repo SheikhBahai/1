@@ -1,0 +1,137 @@
+# Translation of Plugins - Reading Time WP - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Reading Time WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-17 04:07:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Reading Time WP - Stable (latest release)\n"
+
+#: rt-reading-time-admin.php:124
+msgid "The shortcode shows the reading time for the current page/post by default. To show the reading time for another one, use the optional \"post_id\" attribute. For example - to show the reading time for post ID 123: <code>[rt_reading_time post_id=\"123\"]</code>."
+msgstr "کد کوتاه زمان خواندن را برای نوشته/برگه کنونی به صورت پیش‌فرض نمایش می‌دهد. به منظور نمایش زمان مطالعه در جای دیگر، از ویژگی اختیاری \"post_id\" استفاده کنید. برای مثال - برای نمایش زمان خواندن برای نوشته با شناسه 123 از کد روبرو استفاده کنید: <code>[rt_reading_time post_id=\"123\"]</code>."
+
+#: rt-reading-time-admin.php:112
+msgid "Display on "
+msgstr "نمایش در "
+
+#: rt-reading-time-admin.php:123
+msgid "Want to insert the reading time into your theme? Use <code>do_shortcode('[rt_reading_time]')</code>."
+msgstr "می‌خواهید زمان مطالعه را به پوسته‌تان اضافه کنید؟ از <code>do_shortcode('[rt_reading_time]')</code> استفاده کنید."
+
+#: rt-reading-time-admin.php:122
+msgid "Or simply use <code>[rt_reading_time]</code> to return the number with no labels."
+msgstr "یا استفاده آسان از <code>[rt_reading_time]</code> به منظور بازگشت تعداد بدون برچسب."
+
+#: rt-reading-time-admin.php:121
+msgid "Shortcode: <code>[rt_reading_time label=\"Reading Time:\" postfix=\"minutes\" postfix_singular=\"minute\"]</code>"
+msgstr "کد کوتاه: <code>[rt_reading_time label=\"زمان مطالعه:\" postfix=\"دقیقه\" postfix_singular=\"دقیقه\"]</code>"
+
+#: rt-reading-time-admin.php:116
+msgid "Update Options"
+msgstr "بروزرسانی گزینه‌ها"
+
+#: rt-reading-time-admin.php:109
+msgid "Select Post Types to Display Reading Time On"
+msgstr "انتخاب نوع نوشته برای نمایش زمان مطالعه"
+
+#: rt-reading-time-admin.php:107
+msgid "Include shortcodes in the reading time: "
+msgstr "شامل شدن کدهای کوتاه در زمان مطالعه: "
+
+#: rt-reading-time-admin.php:106
+msgid "Exclude images from the reading time: "
+msgstr "نادیده گرفتن تصاویر در زمان مطالعه: "
+
+#: rt-reading-time-admin.php:105
+msgid "Insert Reading Time before excerpt: "
+msgstr "درج زمان مطالعه قبل از چکیده: "
+
+#: rt-reading-time-admin.php:104
+msgid "Insert Reading Time before content: "
+msgstr "درج زمان مطالعه قبل از محتوا: "
+
+#: rt-reading-time-admin.php:102
+msgid " (defaults to 300, the average reading speed for adults)"
+msgstr " (بطور پیشفرض ۳۰۰ است، میانگین سرعت مطالعه برای یک انسان بالغ)"
+
+#: rt-reading-time-admin.php:102
+msgid "Words per minute: "
+msgstr "کلمه در دقیقه: "
+
+#: rt-reading-time-admin.php:100
+msgid " This value appears after the reading time, when lecture time is 1 minute."
+msgstr " این مقدار بعد از زمان مطالعه که برابر با ۱ دقیقه باشد نمایش داده می‌شود."
+
+#: rt-reading-time-admin.php:100
+msgid "Reading time postfix singular: "
+msgstr "پسوند مفرد زمان مطالعه: "
+
+#: rt-reading-time-admin.php:99
+msgid " This value appears after the reading time. Leave blank for none."
+msgstr " این مقدار بعد از زمان مطالعه نمایش داده می‌شود. اگر خالی بگذارید چیزی نمایش داده نمی‌شود."
+
+#: rt-reading-time-admin.php:99
+msgid "Reading time postfix: "
+msgstr "پسوند زمان مطالعه: "
+
+#: rt-reading-time-admin.php:97
+msgid " This value appears before the reading time. Leave blank for none."
+msgstr " این مقدار قبل از زمان مطالعه نمایش داده می‌شود. اگر خالی بگذارید چیزی نمایش داده نمی‌شود."
+
+#: rt-reading-time-admin.php:97
+msgid "Reading time label: "
+msgstr "برچسب زمان مطالعه: "
+
+#: rt-reading-time-admin.php:95
+msgid "Reading Time Settings"
+msgstr "تنظیمات زمان مطالعه"
+
+#: rt-reading-time-admin.php:54
+msgid "Options saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: rt-reading-time-admin.php:90 rt-reading-time.php:270
+msgid "Reading Time WP Settings"
+msgstr "تنظیمات زمان مطالعه وردپرس"
+
+#: rt-reading-time.php:160
+msgid "< 1"
+msgstr "< 1"
+
+#: rt-reading-time.php:80
+msgid "minute"
+msgstr "دقیقه"
+
+#: rt-reading-time.php:79
+msgid "minutes"
+msgstr "دقیقه"
+
+#: rt-reading-time.php:78
+msgid "Reading Time: "
+msgstr "زمان مطالعه: "
+
+#. Author URI of the plugin
+msgid "https://jasonyingling.me"
+msgstr "https://jasonyingling.me"
+
+#. Author of the plugin
+msgid "Jason Yingling"
+msgstr "Jason Yingling"
+
+#. Description of the plugin
+msgid "Add an estimated reading time to your posts."
+msgstr "افزودن زمان مطالعه تخمینی به نوشته‌ها."
+
+#. Plugin URI of the plugin
+msgid "https://jasonyingling.me/reading-time-wp/"
+msgstr "https://jasonyingling.me/reading-time-wp/"
+
+#. Plugin Name of the plugin
+#: rt-reading-time.php:271
+msgid "Reading Time WP"
+msgstr "زمان مطالعه وردپرس"

@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: دموی اصلی were successfully downloaded!
+Initial max execution time = 100
+Files info:
+Site URL = https://demo.hamyarwp.com/online-courses
+Data file = /home/s1wpde/domains/demo.hamyarwp.com/public_html/online-courses/wp-content/themes/online-courses-child/hwp_inc/import_files/content.xml
+Widget file = /home/s1wpde/domains/demo.hamyarwp.com/public_html/online-courses/wp-content/themes/online-courses-child/hwp_inc/import_files/widget.wie
+Customizer file = /home/s1wpde/domains/demo.hamyarwp.com/public_html/online-courses/wp-content/themes/online-courses-child/hwp_inc/import_files/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+نوار کناری اصلی : 
+
+جستجو - No Title - Widget already exists
+نوشته‌های تازه - No Title - Widget already exists
+آخرین دیدگاه‌ها - No Title - Widget already exists
+دسته‌ها - No Title - Widget already exists
+
+بخش ۱ نوار پابرگ : 
+
+تصویر - No Title - Imported
+متن - No Title - Imported
+
+بخش ۲ نوار پابرگ : 
+
+فهرست راهبری - دسترسی سریع - Imported
+
+footer-widget-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+نوشته‌های تازه - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
